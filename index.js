@@ -8,10 +8,10 @@ app.listen(3000, () => console.log('Web server ready.'));
 
 // 2. Bot Configuration
 const botArgs = {
-    host: 'YOUR_SERVER_IP.aternos.me',
-    port: 25565,
-    username: 'ScoutBot',
-    version: '1.20.1' // Change to match your server
+    host: 'tehfree.aternos.me',
+    port: 27763,
+    username: 'Epstein',
+    version: '1.20.11' // Change to match your server
 };
 
 function createBot() {
