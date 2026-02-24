@@ -11,7 +11,7 @@ const botArgs = {
     host: 'tehfree.aternos.me',
     port: 27763,
     username: 'Epstein',
-    version: '1.20.11' // Change to match your server
+    version: '1.21.11' // Change to match your server
 };
 
 function createBot() {
